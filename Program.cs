@@ -6,7 +6,7 @@ using System.IO;
 using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 
-namespace Итк_8
+namespace LABA
 {
     class Program
     {
